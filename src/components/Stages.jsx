@@ -4,11 +4,10 @@ import { fadeIn } from "../variants";
 
 const Stages = () => {
   return (
-    <section className="sectio relative" id="stages">
-      <div className="containe mx-auto relative top-[270px]  ">
+    <section className="mb-44" id="stages">
+      <div className="container mx-auto relative top-[270px]  ">
         <center>
           <h1 className="h2 text-[#FFF] etaps font-bold ">Этапы разработки</h1>
-
           <div className="flex w-[40%] justify-center flex-col">
             <div className="pt-[10px] flex flex-col ">
               <p className="text-[#FFF] font-bold text-[30px] ">Этап</p>

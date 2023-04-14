@@ -32,16 +32,6 @@ const Nav = () => {
           </Link>
 
           <Link
-            to="services"
-            activeClass="active"
-            smooth={true}
-            spy={true}
-            className="cursor-pointer justify-center w-[60px] h-[60px] flex items-center"
-          >
-            <BsClipboardData />
-          </Link>
-
-          <Link
             to="work"
             activeClass="active"
             smooth={true}
@@ -55,7 +45,6 @@ const Nav = () => {
             to="stages"
             activeClass="active"
             smooth={true}
-            // offset={-200}
             spy={true}
             className="cursor-pointer justify-center  w-[60px] h-[60px] flex items-center"
           >

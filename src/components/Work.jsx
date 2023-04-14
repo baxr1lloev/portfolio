@@ -7,7 +7,7 @@ import Img3 from "../assets/portfolio-img3.png";
 
 const Work = () => {
   return (
-    <section className="section" id="work">
+    <section className="section sect" id="work">
       <div className="container  mx-auto">
         <div className="flex flex-col lg:flex-row gap-x-10 ">
           <motion.div
@@ -22,8 +22,7 @@ const Work = () => {
                 Наши проекты <br />
               </h2>
               <p className="max-w-sm mb-16 ">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum ha
+                Здесь вы сможете ознакомиться с проектами которые мы уже успели выполнить
               </p>
 
               <button className="btn btn-sm ">Все проекты..</button>

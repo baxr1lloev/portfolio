@@ -54,8 +54,7 @@ const Banner = () => {
                             viewport={{ once: true, amount: 0.7 }}
                             className="mb-8 max-w-lg mx-auto lg:mx-0 "
                         >
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            Мы предоставляем услуги для различных отраслей бизнеса, включая финансы, здравоохранение, производство и технологии
                         </motion.p>
 
                         <motion.div

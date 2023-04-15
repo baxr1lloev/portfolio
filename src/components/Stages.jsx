@@ -6,7 +6,6 @@ const Stages = () => {
     return (
         <section className="mb-44" id="stages">
             <div className="container mx-auto relative top-[270px]  ">
-
                 <center>
                     <motion.h1
                         variants={fadeIn("left", 0.3)}

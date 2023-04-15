@@ -18,6 +18,10 @@
   font-family: 'RoadRadio' !important;
 }
 
+.grd{
+  background-color: #220E3F;
+}
+
 .containe{
   width: 100%;
   /* background-color: red; */
